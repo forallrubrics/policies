@@ -1,2 +1,2 @@
-# policies
-This repository contains ForAllRubrics' Terms of Service and Privacy Policy
+# ForAllRubrics Privacy Policy and Terms of Service
+This repository contains ForAllRubrics' Privacy Policy and Terms of Service.
