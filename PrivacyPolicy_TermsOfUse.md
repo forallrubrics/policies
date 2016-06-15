@@ -238,8 +238,8 @@ Entire Agreement
 This is the entire agreement between us relating to the subject matter herein and shall not be modified except in writing, signed by both parties, or by a change to this Agreement made by ForAllRubrics as set forth above.
 Contact
 
-ForAllRubrics is located at 220 N Green St, WeWork (6th Floor), Chicago, IL 60607. Contact us by email: support@forallrubrics.com 
+ForAllRubrics is located at 1 N State St, St #1500, Chicago, IL 60602. Contact us by email: support@forallrubrics.com 
 
 ForAllRubrics is an unregistered trademark of Forall Systems, Inc. 
 
-Last Updated: December 1, 2015
+Last Updated: June 15, 2016
