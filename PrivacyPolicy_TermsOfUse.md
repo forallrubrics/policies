@@ -2,7 +2,7 @@
 
 ##PRIVACY POLICY
 
-This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information. Please be sure to read this entire Privacy Policy before using or submitting information with ForAllRubrics. This Policy applies if you're using our mobile application, or if you're visiting our web site at www.forallrubrics.com or www.forallbadges.com (together, the "ForAllRubrics Service"). 
+This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information. Please be sure to read this entire Privacy Policy before using or submitting information with ForAllRubrics. This Policy applies if you're using our mobile application, or if you're visiting our web site at www.forallrubrics.com or sites powered by ForAllRubrics (together, the "ForAllRubrics Service"). 
 
 This Privacy Policy is incorporated into the ForAllRubrics Terms of Use by this reference. In addition to reviewing our Privacy Policy, you should also read ForAllRubrics Terms of Use. Your use of the ForAllRubrics Service constitutes your agreement to the terms and conditions in this Privacy Policy. Whenever you submit information via this site or application, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy. If you reside outside the United States, your personally identifiable information will be transferred to the U.S., and processed and stored there under U.S. privacy standards. By using the ForAllRubrics Service and providing information to us, you consent to such transfer to, and processing in, the U.S.
 
@@ -89,11 +89,6 @@ Use of and membership in the ForAllRubrics Service is void where prohibited. By 
 
 You can review the most current version of this Agreement by visiting https://www.forallrubrics.com/termsofuse/ The most current version will supersede all previous versions. By continuing to use the ForAllRubrics Service after changes are made, you agree to be bound by such changes.
 
-Description of ForAllRubrics Service
-
-The ForAllRubrics Service allows teachers to organize their classroom and student assessment information, and to share that information with students and parents. 
-
-ForAllRubrics makes it possible to capture evidence of learning, assess, and communicate easily. The ability to do this anytime, anywhere saves valuable time and money. ForAllRubrics makes it possible for teachers to provide individualized learning for their students by reducing the time spent planning lessons, searching for resources, and recording specific student data.
 
 Eligibility
 
@@ -155,7 +150,7 @@ You will need an account in order to use the ForAllRubrics Service as a Teacher,
 
 Notice and Take Down Procedures and Copyright Agent
 
-If you believe any materials accessible on or from the ForAllRubrics Service infringe your copyright, you may request removal of those materials (or access thereto) from the ForAllRubrics Services by contacting ForAllRubrics at the following email: support@ForAllRubrics.wpengine.com and providing the following information: 
+If you believe any materials accessible on or from the ForAllRubrics Service infringe your copyright, you may request removal of those materials (or access thereto) from the ForAllRubrics Services by contacting ForAllRubrics at the following email: support@forallrubrics.com and providing the following information: 
 
 1. Identification of the copyrighted work that you believe to be infringed. Please describe the work, and where possible include a copy or the location (e.g., URL) of an authorized version of the work. 
 
